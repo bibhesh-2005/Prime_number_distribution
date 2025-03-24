@@ -58,3 +58,4 @@ plt.title("Prime Gaps vs. Logarithmic Growth")
 plt.legend()
 plt.grid(True)
 plt.savefig("prime gaps vs log growth")
+
